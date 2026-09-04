@@ -196,7 +196,7 @@ getent
 - Understand root vs normal users
 - Practice safe sudo usage
 
-**Status:** ⏳ Not Started
+**Status:** ✅ Completed
 
 ---
 
@@ -790,7 +790,7 @@ Automation
 ├── README.md
 ├── exercises/
 │   ├── day-01-linux-fundamentals.md
-│   ├── day-02-users-groups.md
+│   ├── day-02-Users-and-Groups.md
 │   ├── day-03-permissions-ownership.md
 │   ├── day-04-processes-jobs.md
 │   ├── day-05-services-systemd.md
@@ -848,6 +848,16 @@ Desktop-oriented and low-priority topics are reduced, while greater emphasis is 
 **Track:** Linux  
 **Duration:** 2 Weeks / 14 Days  
 **Current Week:** Week 1  
-**Completed:** Day 1 / 14  
-**Current:** Day 2 — Users & Groups  
-**Overall Status:** 🟡 In Progress
+## Progress
+
+**Completed:** Day 2 / 14  
+**Current:** Day 3 — Permissions & Ownership
+
+### Completed Days
+
+- ✅ [Day 1 — Linux Fundamentals](exercises/Day-01-Linux-Fundamentals.md)
+- ✅ [Day 2 — Users & Groups](exercises/Day-02-Users-and-Groups.md)
+
+### Next
+
+- ⏳ Day 3 — Permissions & Ownership
